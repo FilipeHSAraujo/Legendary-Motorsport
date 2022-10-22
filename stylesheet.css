@@ -1,0 +1,45 @@
+/* Class */
+.content{
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgb(105, 7, 7);
+    border: 1px solid red;
+}
+
+
+/* id */
+#logo{
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* tag */
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  footer{
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgb(105, 7, 7);
+    border: 1px solid red;
+    text-align: center;
+  }
