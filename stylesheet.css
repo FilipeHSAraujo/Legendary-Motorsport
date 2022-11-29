@@ -44,7 +44,9 @@ table {
     text-align: center;
   }
 
-  iframe{
+  #regis{
     display: flex;
     justify-content: center;
+    background-color: white;
+    text-align: center;
   }
